@@ -1,0 +1,16 @@
+
+header{background-color: #cabbe9;}
+
+
+body {background-color: #f7e8e8;
+text-align: center;}
+
+footer{background-color: #cabbe9;
+float: center; width: 100%; height: 100%;}
+footer img {width: 100px; height: 100px;}
+
+.Formulario {background-color:#cabbe9;}
+
+a:visited {color: red;}
+a:hover {font-size: 25px}
+footer img:hover {width: 5%;}
